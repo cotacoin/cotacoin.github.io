@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cotacoin.github.io
+Token: f236f6873a75d375717f46790f1248ad0de845c4c58fc262f0d5c1a7515092c3
